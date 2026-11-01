@@ -1,0 +1,8 @@
+{
+  "name": "MaRy Vpn",
+  "description": "High-speed, private, and secure VPN client with Soft Glassmorphism design, multi-protocol switching, split tunneling, and global server network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
